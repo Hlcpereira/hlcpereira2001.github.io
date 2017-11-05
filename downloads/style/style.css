@@ -1,0 +1,67 @@
+.Devices_title {
+  padding-top: 20px;
+  margin-left: 80px;
+  text-shadow: 0px 0px 3px white;
+}
+
+.devices {
+  padding-top: 1.5%;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  border: 0px solid #ccc;
+}
+
+.device {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  border: 0px solid #ccc;
+  margin-top: 1.5%;
+}
+
+.list {
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.M {
+  color: #fff;
+}
+
+.Forum_button {
+  display: block;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 1%;
+  margin-left: 10px;
+  float: right;
+  overflow: hidden;
+}
+
+.Download_button {
+  display: block;
+  border: 2px solid #fff;
+  background: #fff;
+  color: #cb7371;
+  padding: 1%;
+  margin-left: 0px;
+  float: right;
+  overflow: hidden;
+}
+
+.buttons {
+  margin-top: -2%;
+  margin-bottom: 5%;
+}
+
+.list_background {
+  display: block;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.2), 0 6px 60px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 50px;
+  background: #cb7371;
+}
+
+a {
+  text-decoration: none;
+}
